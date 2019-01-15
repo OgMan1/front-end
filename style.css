@@ -1,0 +1,66 @@
+.bgMountain {
+    background-image: url("mountains.jpg");
+    background-position: top;
+    background-size: cover;
+    height: 70vh;
+}
+
+.greenish {
+    background-color: rgba(0, 128, 128, 0.7);
+    height: 100%;
+}
+.nav {
+    padding: 3px;
+}
+
+.navbar-brand img, span {
+    display: inline;
+}
+
+.btnTransparent {
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+.whiteText {
+    color: white;
+    padding-top: 25%;
+}
+
+.dream {
+    font-size: 60px;
+}
+
+.lorem {
+    font-size: 20px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.formBlack {
+    height: 15vh;
+    background-color: black;
+}
+
+.beBetter {
+    height: 35vh;
+}
+
+.whiteBox, .blueBox {
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.blueBox {
+    background-color: blue;
+    color: white;
+}
+
+.line {
+    border-top: 3px solid gray;
+    width: 100%;
+}
